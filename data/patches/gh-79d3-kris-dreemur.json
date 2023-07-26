@@ -1,0 +1,56 @@
+{
+	"id": -1,
+	"name": "Kris Dreemur",
+	"description": "The main protagonist of Deltarune. Controlled by the player. \n\nHere Kris is depicted in their Dark World form. Headphones added in collaberation with the music group logo to Kris' right.",
+	"links": {
+		"subreddit": [
+			"deltarune"
+		]
+	},
+	"path": {
+		"220-259": [
+			[
+				331,
+				965
+			],
+			[
+				331,
+				965
+			],
+			[
+				330,
+				964
+			],
+			[
+				330,
+				955
+			],
+			[
+				342,
+				955
+			],
+			[
+				343,
+				957
+			],
+			[
+				343,
+				964
+			],
+			[
+				342,
+				965
+			],
+			[
+				331,
+				965
+			]
+		]
+	},
+	"center": {
+		"220-259": [
+			337,
+			960
+		]
+	}
+}
