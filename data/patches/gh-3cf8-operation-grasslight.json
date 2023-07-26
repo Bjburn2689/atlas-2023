@@ -1,0 +1,47 @@
+{
+	"id": -1,
+	"name": "Operation Grasslight",
+	"description": "A plan executed by members of the Deltarune discord to fill a sectioned off chunk of Denmark's flag with green \"grass\" in hopes of gaslighting them into forgetting that it was ever part of their territory so that the Ralsei they drew there might survive. Ultimately ended in failure.",
+	"links": {
+		"subreddit": [
+			"deltarune"
+		],
+		"discord": [
+			"C5GTZZbE"
+		]
+	},
+	"path": {
+		"120-147": [
+			[
+				-196,
+				-178
+			],
+			[
+				-196,
+				-178
+			],
+			[
+				-196,
+				-178
+			],
+			[
+				-145,
+				-178
+			],
+			[
+				-145,
+				-250
+			],
+			[
+				-196,
+				-251
+			]
+		]
+	},
+	"center": {
+		"120-147": [
+			-170,
+			-214
+		]
+	}
+}
